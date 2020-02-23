@@ -7,3 +7,4 @@ build:
 
 devbin:
 	go build -o devtest.devbin main.go
+	go build -o 2devtest.devbin main.go
